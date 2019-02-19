@@ -15,7 +15,7 @@ Cross the road without getting hit by the bugs. Use the arrow keys to move the c
 ## How to Install/Load and Play to Locally
 
 1. Type in command line
-```git svn clone https://github.com/cmcclemente/cmcclemente.github.io/trunk/arcadegame [DESTINATION FOLDER] ```
+```git svn clone https://github.com/cmcclemente/arcadegame.git [DESTINATION FOLDER] ```
 2. Change directory to your DESTINATION FOLDER
 3. Double click index.html to start playing
 
